@@ -1,0 +1,10 @@
+.text-type {
+  display: inline-block;
+  white-space: pre-wrap;
+  font-family: monospace;
+  color: #00ff00;
+}
+
+.text-type__cursor {
+  display: inline-block;
+}
