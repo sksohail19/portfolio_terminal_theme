@@ -1,6 +1,6 @@
 import React from "react";
-import Terminal from "./Terminal";
-import Lanyard from "./Lanyard";
+import Terminal from "./components/Terminal";
+import Lanyard from "./components/Lanyard";
 import "./App.css";
 
 function App() {

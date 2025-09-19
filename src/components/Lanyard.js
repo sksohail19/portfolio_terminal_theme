@@ -6,8 +6,8 @@ import { useTexture, Environment, Lightformer } from '@react-three/drei';
 import { BallCollider, CuboidCollider, Physics, RigidBody, useRopeJoint, useSphericalJoint } from '@react-three/rapier';
 import { MeshLineGeometry, MeshLineMaterial } from 'meshline';
 
-import lanyard from './assets/lanyard.png';
-import cardImage from './assets/card.jpg'; // 👈 your JPG card
+import lanyard from '../assets/lanyard.png';
+import cardImage from '../assets/card.jpg'; // 👈 your JPG card
 
 import * as THREE from 'three';
 import './Lanyard.css';
